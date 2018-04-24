@@ -6,7 +6,7 @@ title: About
 I'm currently a masters student at King Abdullah University of Science and Technology. I had my BS of computer science at MIT.
 
 ## Contact
-You can email me at H@[this domain]
+You can email me at Hassan@Sibyani.com
 
 ## Social media
 * [Twitter](https://twitter.com/hsibyani)
